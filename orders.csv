@@ -1,0 +1,21 @@
+order_id,customer_id,product_id,product_name,category,price,supplier_id,supplier_rating,order_date,customer_state,customer_tenure,marketing_channel,delivery_days
+ORD1001,CUST205,PROD501,Wireless Headphones,Electronics,89.99,SUPP22,4.2,2023-05-10,CA,24,Email,3
+ORD1002,CUST308,PROD102,Cotton T-Shirt,Apparel,19.99,SUPP45,3.8,2023-05-11,TX,12,Social Media,5
+ORD1003,CUST412,PROD305,Blender,Home & Kitchen,49.99,SUPP18,4.5,2023-05-12,NY,6,Paid Search,2
+ORD1004,CUST127,PROD208,Running Shoes,Sports,79.99,SUPP33,4.1,2023-05-12,FL,36,Affiliate,4
+ORD1005,CUST519,PROD401,Smart Watch,Electronics,199.99,SUPP22,4.2,2023-05-13,CA,18,Email,3
+ORD1006,CUST204,PROD103,Denim Jeans,Apparel,59.99,SUPP45,3.8,2023-05-14,TX,9,Social Media,5
+ORD1007,CUST311,PROD302,Air Fryer,Home & Kitchen,89.99,SUPP18,4.5,2023-05-15,NY,30,Paid Search,2
+ORD1008,CUST118,PROD210,Yoga Mat,Sports,29.99,SUPP33,4.1,2023-05-16,FL,48,Affiliate,4
+ORD1009,CUST522,PROD504,Bluetooth Speaker,Electronics,69.99,SUPP22,4.2,2023-05-17,CA,15,Email,3
+ORD1010,CUST301,PROD105,Summer Dress,Apparel,39.99,SUPP45,3.8,2023-05-18,TX,24,Social Media,5
+ORD1011,CUST417,PROD309,Toaster,Home & Kitchen,34.99,SUPP18,4.5,2023-05-19,NY,12,Paid Search,2
+ORD1012,CUST123,PROD215,Dumbbell Set,Sports,99.99,SUPP33,4.1,2023-05-20,FL,60,Affiliate,4
+ORD1013,CUST515,PROD502,Phone Case,Electronics,14.99,SUPP22,4.2,2023-05-21,CA,9,Email,3
+ORD1014,CUST307,PROD107,Winter Jacket,Apparel,129.99,SUPP45,3.8,2023-05-22,TX,36,Social Media,5
+ORD1015,CUST413,PROD312,Mixer,Home & Kitchen,119.99,SUPP18,4.5,2023-05-23,NY,24,Paid Search,2
+ORD1016,CUST121,PROD220,Cycling Helmet,Sports,59.99,SUPP33,4.1,2023-05-24,FL,42,Affiliate,4
+ORD1017,CUST518,PROD503,Fitness Tracker,Electronics,79.99,SUPP22,4.2,2023-05-25,CA,18,Email,3
+ORD1018,CUST304,PROD110,Casual Shirt,Apparel,29.99,SUPP45,3.8,2023-05-26,TX,6,Social Media,5
+ORD1019,CUST419,PROD315,Coffee Maker,Home & Kitchen,79.99,SUPP18,4.5,2023-05-27,NY,30,Paid Search,2
+ORD1020,CUST125,PROD225,Jump Rope,Sports,12.99,SUPP33,4.1,2023-05-28,FL,54,Affiliate,4

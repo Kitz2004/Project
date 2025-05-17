@@ -1,0 +1,11 @@
+return_id,order_id,return_date,return_reason,refund_amount
+RET5001,ORD1001,2023-05-15,Product not as described,89.99
+RET5002,ORD1003,2023-05-18,Defective product,49.99
+RET5003,ORD1006,2023-05-20,Wrong size received,59.99
+RET5004,ORD1008,2023-05-22,Changed mind,29.99
+RET5005,ORD1010,2023-05-25,Product not as described,39.99
+RET5006,ORD1012,2023-05-28,Defective product,99.99
+RET5007,ORD1014,2023-05-30,Wrong color received,129.99
+RET5008,ORD1017,2023-06-02,Product not as described,79.99
+RET5009,ORD1019,2023-06-05,Defective product,79.99
+RET5010,ORD1020,2023-06-08,Changed mind,12.99
